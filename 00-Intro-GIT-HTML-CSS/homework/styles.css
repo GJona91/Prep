@@ -1,0 +1,33 @@
+h1 {
+    color: green;
+}
+h3 {
+    color: white;
+}
+h4 {
+    color: white;
+}
+img {
+    width: 400px;
+}
+
+#thirdDiv {
+    
+    height: 850px;
+    width: 500px;
+    background-color:yellow;
+    padding: 50px;
+    border-color: tomato;
+    border-style: double;
+    border-width: 15px;
+    margin: 0 auto;
+}
+
+#spanId {
+ color: yellow;
+ font-size: 25px;
+ margin: 50px;
+}
+ body {
+    background:url('https://scontent.faep16-1.fna.fbcdn.net/v/t1.6435-9/88177349_2468423920153759_8031484054907912192_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=973b4a&_nc_ohc=hk9xRsPkYswAX9XFIEV&_nc_ht=scontent.faep16-1.fna&oh=b7f57b944f616d0abed76ac0d149cd92&oe=61937736') ;
+ }
